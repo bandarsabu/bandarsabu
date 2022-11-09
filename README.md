@@ -7,7 +7,7 @@ My name is Akhiratul Akmal Agustiannoor <br>
 You can call me Amayy <br>
 A Student at Information Technologi, Lambung Mangkurat University
   
-- 🔭 I’m currently working on [Praktikum Pemrograman2]((https://github.com/bandarsabu/PraktikumPemrograman2)
+- 🔭 I’m currently working on [Praktikum Pemrograman2](https://github.com/bandarsabu/PraktikumPemrograman2)
 
 - 🌱 I’m currently learning **Html, Php, Java, Javacript, Mysql**
 
