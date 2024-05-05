@@ -1,7 +1,9 @@
 <h1 align="center">Hi Guys <br> :smile: Welcome My GitHub :smile: </h1>
 <h3 align="center"></h3>
 <img align = "right" alt= "Coding" width = "400"
-src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u"> 
+src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"></a></p>
+
+<iframe 
 
 <b>:man: My Profile :</b> <br>
 My name is Akhiratul Akmal Agustiannoor <br>
